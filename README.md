@@ -8,3 +8,9 @@ A separate time table automatically built as per the input is available for each
 Update and overwrite existing time table.
 
 Has a separate .txt file for each section and each teacher.
+
+!(alt-text)[https://github.com/archit-soni/TimeTable/blob/master/1.png]
+!(alt-text)[https://github.com/archit-soni/TimeTable/blob/master/2.png]
+!(alt-text)[https://github.com/archit-soni/TimeTable/blob/master/3.png]
+!(alt-text)[https://github.com/archit-soni/TimeTable/blob/master/4.png]
+!(alt-text)[https://github.com/archit-soni/TimeTable/blob/master/5.png]
